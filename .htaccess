@@ -1,3 +1,0 @@
-<Files "yourfile.json">
-  Header set Access-Control-Allow-Origin "https://allowed-domain.com"
-</Files>
